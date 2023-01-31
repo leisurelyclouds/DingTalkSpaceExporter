@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DownloadDingTalk": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PWDEBUG": "1"
+      }
+    }
+  }
+}
